@@ -1,9 +1,49 @@
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+Made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
+### Install
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included. 
+
+### Tutor
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
+<br>
+
+## Needs of this project
+
+- frontend developers
+- data exploration/descriptive statistics
+- data processing/cleaning
+- statistical modeling
+- writeup/reporting
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `jupiternotebook_name` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook (jupiter_notebook_name) 
+```  
+or
+```bash
+jupyter notebook (jupiter_notebook_name)
+```
+or open with Juoyter Lab
+```bash
+jupyter lab
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
+<br>Here's the link for you to watch the sessions as well<br>
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
 <br>I got to have hands on experience on:
 <li>Python
